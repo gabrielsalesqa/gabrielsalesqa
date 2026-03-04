@@ -6,18 +6,16 @@
 
 </div>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="25"></picture> About me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="25"></picture> Sobre mim
 
-- :technologist: I am a `Software Quality Assurance Intern` at [DBC Company](https://www.dbccompany.com.br/)
-- :school: I am pursuing a `Bachelor's Degree in Information Systems` at [Anhanguera Educacional](https://www.anhanguera.com/)
-- :student: I am currently learning about `Software Quality Assurance` and `Information Systems`
-- :mag: I am enthusiastic about `Financial Market`
+- :technologist: Sou `Engenheiro de Qualidade de Software Pleno` at [DBC Company](https://www.dbccompany.com.br/)
+- :school: Sou graduando em `Sistemas de Informação` at [Anhanguera Educacional](https://www.anhanguera.com/)
 <br>
 
-## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></picture> Technologies
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></picture> Tecnologias
 
 <details open>
-  <summary><b>📋 Languages</b></summary>
+  <summary><b>📋 Linguagens</b></summary>
   <br>
 
   ![Java](https://img.shields.io/badge/java-%23F29111?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,7 +28,7 @@
 </details>
 
 <details>
-  <summary><b>📚 Frameworks, Platforms and Libraries</b></summary>
+  <summary><b>📚 Frameworks, plataformas e bibliotecas</b></summary>
   <br>
 
   ![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -47,7 +45,7 @@
 </details>
 
 <details>
-  <summary><b>💾 Databases</b></summary>
+  <summary><b>💾 Bancos de dados</b></summary>
   <br>
   
   ![Microsoft SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -56,7 +54,7 @@
 </details>
 
 <details>
-  <summary><b>🧪 Testing</b></summary>
+  <summary><b>🧪 Testes</b></summary>
   <br>
   
   ![Cypress](https://img.shields.io/badge/cypress-%2317202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -65,7 +63,7 @@
 </details>
 
 <details>
-  <summary><b>💻 IDEs/Editors</b></summary>
+  <summary><b>💻 IDEs/Editores</b></summary>
   <br>
   
   ![Visual Studio](https://img.shields.io/badge/visual%20studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
@@ -74,7 +72,7 @@
 </details>
 
 <details>
-  <summary><b>🕓 Version Control</b></summary>
+  <summary><b>🕓 Controle de versão</b></summary>
   <br>
   
   ![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -82,11 +80,11 @@
 </details>
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"></picture> Let's Connect 
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"></picture> Contate-me
 
 <div> 
-  <a href="https://www.linkedin.com/in/gabrielsalesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:gabrielsalesdev@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielsalesqa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:gsales@flexza.com.br"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
 
@@ -94,11 +92,11 @@
 
 <div align="center">
   
-![Gabriel Sales's GitHub Streak](https://streak-stats.demolab.com/?user=gabrielvendas&theme=transparent)
+![Gabriel Sales's GitHub Streak](https://streak-stats.demolab.com/?user=gabrielsalesqas&theme=transparent)
   
-![Gabriel Sales's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielvendas&show_icons=true&theme=transparent)
+![Gabriel Sales's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielsalesqa&show_icons=true&theme=transparent)
 
-![Gabriel Sales's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvendas&layout=compact&theme=transparent)
+![Gabriel Sales's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsalesqa&layout=compact&theme=transparent)
 
 </div>
 
