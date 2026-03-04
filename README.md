@@ -92,11 +92,7 @@
 
 <div align="center">
   
-![Gabriel Sales's GitHub Streak](https://streak-stats.demolab.com/?user=gabrielsalesqas&theme=transparent)
-  
-![Gabriel Sales's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielsalesqa&show_icons=true&theme=transparent)
-
-![Gabriel Sales's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsalesqa&layout=compact&theme=transparent)
+![Gabriel Sales's GitHub Streak](https://streak-stats.demolab.com/?user=gabrielsalesqa&theme=transparent)
 
 </div>
 
