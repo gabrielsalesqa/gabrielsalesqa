@@ -2,14 +2,14 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=006AFF&center=true&vCenter=true&random=false&width=650&lines=Software+Quality+Assurance+Intern+at+DBC+Company;Pursuing+a+Bachelor's+Degree+in+Information+Systems;Learning+about+Software+Quality+Assurance;Learning+about+Information+Systems;Enthusiastic+about+Financial+Market)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=006AFF&center=true&vCenter=true&random=false&width=650&lines=Engenheiro+de+Qualidade+de+Software+Pleno;Graduando+em+Sistemas+de+Informação)](https://git.io/typing-svg)
 
 </div>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="25"></picture> Sobre mim
 
-- :technologist: Sou `Engenheiro de Qualidade de Software Pleno` at [DBC Company](https://www.dbccompany.com.br/)
-- :school: Sou graduando em `Sistemas de Informação` at [Anhanguera Educacional](https://www.anhanguera.com/)
+- :technologist: Sou `Engenheiro de Qualidade de Software Pleno` na [DBC Company](https://www.dbccompany.com.br/)
+- :school: Sou graduando em `Sistemas de Informação` na [Anhanguera Educacional](https://www.anhanguera.com/)
 <br>
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></picture> Tecnologias
